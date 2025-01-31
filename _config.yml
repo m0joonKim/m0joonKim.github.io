@@ -56,3 +56,5 @@ plainwhite:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+url: "https://m0joonKim.github.io"  # 실제 GitHub Pages URL로 변경
+baseurl: ""  #  루트에 배포하는 경우
